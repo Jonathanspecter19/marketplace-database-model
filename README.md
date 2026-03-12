@@ -6,7 +6,7 @@ Este projeto apresenta a modelagem e implementação de um banco de dados relaci
 
 Abaixo está o modelo lógico do banco de dados:
 
-![Modelo Lógico](repository-open-graph-template.png)
+![Modelo Lógico]![Modelo Lógico](modelo_logico.png)
 
 ## Implementação em SQL
 
