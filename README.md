@@ -6,7 +6,7 @@ Este projeto apresenta a modelagem e implementação de um banco de dados relaci
 
 Abaixo está o modelo lógico do banco de dados:
 
-<img width="578" height="852" alt="modelo_logico png" src="https://github.com/user-attachments/assets/cea3ec9e-6f2b-4319-8c6f-d66c368a89f4" />
+<img width="900" height="948" alt="modelo_logico png" src="https://github.com/user-attachments/assets/96c27aba-fb94-4af1-b3b7-f5333a3ae45a" />
 
 ## Implementação em SQL
 
