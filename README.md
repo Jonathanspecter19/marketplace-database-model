@@ -30,5 +30,3 @@ O objetivo deste projeto é simular um banco de dados capaz de gerenciar:
 ## Autor
 
 Jonathan Oliveira
-
-Jonathan Oliveira
